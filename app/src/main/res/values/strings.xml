@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pare e Ande 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="pare">Atenção: PARE</string>
+    <string name="ande">ANDE com cuidado</string>
+    <string name="btTrocar">Trocar cor</string>
+</resources>
